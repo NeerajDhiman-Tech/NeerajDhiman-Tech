@@ -16,7 +16,7 @@
 ## 📸 I share my journey on:
 
 - [LinkedIn: Neeraj Dhiman](https://www.linkedin.com/in/neeraj-dhiman-03479a287/)
-- [Instagram](https://www.instagram.com/?next=%2F)
+
 
 ---
 
