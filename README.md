@@ -119,27 +119,22 @@ I'm continuously working on new applications, experiments and open-source projec
 
 ---
 
-# 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+<img src="https://img.shields.io/badge/Commits-500%2B-blue?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Repositories-25-blue?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Stars-100%2B-blue?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Followers-50%2B-blue?style=for-the-badge&logo=github&logoColor=white" />
+
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
-  />
-</p>
+> **Demo statistics — not actual GitHub metrics.**
 
 ## 📈 GitHub Activity
 
