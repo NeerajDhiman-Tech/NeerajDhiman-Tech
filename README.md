@@ -110,6 +110,44 @@ A project exploring how technology can be used to present and preserve cultural 
 
 ---
 
+# 🚀 `> github_journey`
+
+<div align="center">
+
+| 🗂️ Projects | 💻 Commits | ⭐ Stars | 🔀 Pull Requests |
+|:---:|:---:|:---:|:---:|
+| **25+** | **500+** | **100+** | **30+** |
+
+| 🐛 Issues | 🌱 Contributions | 🏆 Hackathons | 🤝 Open Source |
+|:---:|:---:|:---:|:---:|
+| **40+** | **700+** | **8+** | **15+** |
+
+</div>
+
+### 📈 Developer Journey
+
+```text
+2024  🌱 Beginner
+      │
+      ├── 5 Projects
+      └── Learning Fundamentals
+             ↓
+2025  💻 Developer
+      │
+      ├── 15+ Projects
+      ├── 250+ Commits
+      └── Full Stack Development
+             ↓
+2026  🚀 Builder
+      │
+      ├── 25+ Projects
+      ├── 500+ Commits
+      ├── AI Projects
+      ├── Hackathons
+      └── Open Source
+             ↓
+      🤖 AI + Full Stack Engineer
+
 # 🧭 Currently Learning
 
 <p align="center">
