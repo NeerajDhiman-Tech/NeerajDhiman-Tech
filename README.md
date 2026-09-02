@@ -1,34 +1,11 @@
 # 👋 Hey, I'm Neeraj Dhiman
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Software+Engineering+Enthusiast;Building+Real-World+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" />
-</p>
-
-# 👋 Hey, I'm Neeraj Dhiman
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Builder;Turning+Ideas+Into+Real+Products;Building+%7C+Learning+%7C+Improving;Welcome+To+My+GitHub+%F0%9F%9A%80" />
 </p>
 
 ---
 
-### 🧑‍💻 `developer.exe` is running...
-
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   👨‍💻  NEERAJ DHIMAN                                 │
-│                                                      │
-│   > Full Stack Developer                             │
-│   > AI & Software Engineering                         │
-│   > Problem Solver                                    │
-│   > Building Real-World Projects                     │
-│                                                      │
-│   STATUS : 🟢 ONLINE                                  │
-│   MODE   : 🚀 BUILDING                               │
-│   GOAL   : 💡 CREATE SOMETHING USEFUL                │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
 ## 🧑‍💻 About Me
 
 🎓 Computer Science Student
