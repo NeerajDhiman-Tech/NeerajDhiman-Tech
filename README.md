@@ -1,91 +1,62 @@
 # 👋 Hey, I'm Neeraj Dhiman
 
-### 🚀 Full Stack Developer | AI Builder | Problem Solver
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Software+Engineering+Enthusiast;Building+Real-World+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
 
-I’m a Computer Science student passionate about building **real-world software products**, exploring **Artificial Intelligence**, and turning ideas into useful applications.
-
-I enjoy working across the stack — from designing user interfaces to building backend systems and integrating intelligent features.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Computer Science student
-* 💻 Interested in **Full Stack Development**
-* 🤖 Exploring **AI & intelligent applications**
-* 🚀 Building practical projects instead of only following tutorials
-* 🧠 Improving my **Data Structures & Algorithms**
-* 🌱 Currently focused on becoming a better software engineer
-* 🏆 Interested in hackathons, open source, and collaborative projects
-* 📚 Always learning something new
+🎓 Computer Science Student
+💻 Full Stack Development Enthusiast
+🤖 Exploring Artificial Intelligence
+🚀 Building real-world applications
+🧠 Improving Data Structures & Algorithms
+🏆 Interested in Hackathons & Open Source
+🌱 Learning something new every day
 
----
-
-## 🔨 What I'm Building
-
-I like building applications that solve practical problems.
-
-### 🛡️ RakshaSetu + ResQ-AI
-
-An AI-powered emergency and disaster-response platform designed to help people during critical situations.
-
-**Focus:** Emergency Response • AI • Full Stack Development
-
-### 🇮🇳 BharatVirsa
-
-A digital platform focused on preserving, presenting, and exploring India's cultural heritage through technology.
-
-**Focus:** Web Development • Digital Heritage • User Experience
+> **Learn → Build → Debug → Improve → Repeat**
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### 💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp" />
 </p>
 
----
-
-## 🎨 Frontend Development
+### 🎨 Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
----
-
-## ⚙️ Backend Development
+### ⚙️ Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
----
-
-## 🗄️ Databases
+### 🗄️ Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
----
-
-## 🤖 AI / Machine Learning
+### 🤖 AI / ML
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<p>
-  Exploring Artificial Intelligence, Machine Learning, Generative AI and AI-powered applications.
-</p>
-
----
-
-## 🧰 Development Tools
+### 🧰 Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -95,72 +66,59 @@ A digital platform focused on preserving, presenting, and exploring India's cult
 
 # 🚀 Featured Projects
 
-### 🛡️ RakshaSetu + ResQ-AI
+## 🛡️ RakshaSetu + ResQ-AI
 
-> AI-powered emergency and disaster-response platform.
+**AI-powered emergency and disaster-response platform**
 
-**Focus:** Emergency Response • Artificial Intelligence • Full Stack
+Built to explore how AI and modern software can assist people during emergency situations.
 
----
+**Focus**
 
-### 🇮🇳 BharatVirsa
-
-> Digital platform for exploring and preserving India's cultural heritage.
-
-**Focus:** Web Development • Digital Heritage • User Experience
+`AI` `Emergency Response` `Full Stack` `Real-World Problem Solving`
 
 ---
 
-### 💻 More Projects
+## 🇮🇳 BharatVirsa
 
-I'm continuously working on new applications, experiments and open-source projects.
+**Digital platform focused on India's cultural heritage**
 
-👉 Check out my repositories to see what I'm currently building.
+A project exploring how technology can be used to present and preserve cultural heritage in a modern and accessible way.
 
----
+**Focus**
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Commits-500%2B-blue?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Repositories-25-blue?style=for-the-badge&logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Stars-100%2B-blue?style=for-the-badge&logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Followers-50%2B-blue?style=for-the-badge&logo=github&logoColor=white" />
-
-</p>
-
-> **Demo statistics — not actual GitHub metrics.**
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"
-  />
-</p>
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
+`Web Development` `Digital Heritage` `User Experience`
 
 ---
 
-# 🧠 Currently Learning
+# 📊 GitHub Journey
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 </p>
 
-### My current roadmap
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</p>
+
+> 🌱 **Just getting started — these statistics will grow with my projects and contributions.**
+
+---
+
+# 🧭 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python" />
+</p>
 
 ```text
 Full Stack Development
@@ -176,8 +134,6 @@ AI Integration
 Data Structures & Algorithms
         ↓
 System Design
-        ↓
-Production Engineering
 ```
 
 ---
@@ -186,38 +142,49 @@ Production Engineering
 
 * 🚀 Build production-ready applications
 * 🤖 Build practical AI-powered products
-* 🧠 Strengthen Data Structures & Algorithms
-* 🌐 Improve Full Stack Development
+* 🧠 Improve DSA
+* 🌐 Become stronger in Full Stack Development
 * 🏆 Participate in hackathons
-* 🌱 Contribute to open-source projects
+* 🌱 Contribute to Open Source
 * 💼 Prepare for software engineering opportunities
-* 📚 Learn system design and scalable architecture
-* 🤝 Collaborate with other developers
+* 📚 Learn System Design
+* 🤝 Collaborate with developers
 
 ---
 
-# 🏆 My Developer Journey
+# 📈 My Development Journey
 
-I'm not trying to learn every technology at once.
+```text
+2025  ███░░░░░░░  Learning & Experimenting
 
-My focus is simple:
+2026  ██████░░░░  Building & Improving
 
-**Learn → Build → Break → Debug → Improve → Repeat**
-
-Every project is an opportunity to understand something deeper and become a better engineer.
+Future ██████████  Shipping Real-World Products 🚀
+```
 
 ---
 
-# 🌐 Let's Connect
+# 🔥 What I Believe
+
+> **Good software isn't just about writing code.
+> It's about solving problems that matter.**
+
+I want to build software that is useful, scalable, and meaningful.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
+  
+
 <a href="YOUR_GITHUB_URL">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 </p>
@@ -226,8 +193,8 @@ Every project is an opportunity to understand something deeper and become a bett
 
 <p align="center">
 
-### 💻 Building today. Learning every day. 🚀
+### 🚀 Building today. Learning every day.
 
-⭐ If you find my projects interesting, consider giving them a star!
+⭐ Feel free to explore my repositories!
 
 </p>
